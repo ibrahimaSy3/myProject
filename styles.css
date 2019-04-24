@@ -2,6 +2,15 @@
     background-color: blue;
 }
 
+.undertilte{
+    color: aqua;
+    text-decoration: underline;
+    border:thin solid red;
+    width: 50%;
+    height: 50px;
+    box-shadow : 3px 3px  3px black;
+}
+
 .title {
     color: aliceblue;
 }
