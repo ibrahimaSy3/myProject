@@ -11,6 +11,19 @@
     box-shadow : 3px 3px  3px black;
 }
 
+.coucou {
+    color: blue;
+    text-decoration : lightskyblue;
+    border:thin solid blue;
+}
+
+
+
+
+
+
+
+
 .title {
     color: aliceblue;
 }
