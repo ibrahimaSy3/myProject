@@ -32,7 +32,7 @@ Il décrit la présentation de la page.<p/>.
         <footer>                                           pied de page
         <header>                                           tête de page 
         <nav>                                              pour naviguer (menu déroulant)
-        >list>:<ol> or <ul>                                listes ordonnées/non ordonées 
+        >li>:<ol> or <ul>                                listes ordonnées/non ordonées 
         <main>                                             menu principal
         
            

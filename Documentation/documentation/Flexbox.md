@@ -15,7 +15,7 @@
    
    space-around : les lignes sont réparties avec un espacement égal autour de chacune.
    
-   stretch (par défaut) : les lignes s'étirent pour remplir tout l'espace 
+   stretch (par défaut) : les lignes s'étirent pour remplir tout l'espace.
  
 ## liens 
     https://developer.mozilla.org/fr/docs/Web/CSS/flex
