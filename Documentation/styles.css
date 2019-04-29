@@ -20,16 +20,18 @@ Londres {
     color: chartreuse;
     text-decoration: darkgreen;
     border :thin solid blueviolet;
-}
+    }  title {
+        color: aliceblue;
 
+       h1 {color: aqua;
 
+       }
 
+       h2 {color:rebeccapurple;
+       }
 
+    p { color: rgba(250, 2, 8, 0.31);
+     }
 
-
-
-
-.title {
-    color: aliceblue;
-}
-
+    body {background: beige;
+    }
